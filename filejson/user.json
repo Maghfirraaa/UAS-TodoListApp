@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "nama": "Imroatus Tsaany Maghfira",
+      "email": "maghfira@gmail.com",
+      "password": "baru123"
+    }
+  ],
+  "data": [
+    {
+      "nama": "Apa Itu To Do List?",
+      "detail": "To do list merupakan daftar tugas-tugas atau kegiatan yang harus kamu lakukan pada suatu rentang waktu. Sesuai artinya, to do list ini merupakan daftar to do atau untuk melakukan sesuatu. Biasanya daftar ini dibuat dengan rentang waktu harian, mingguan, atau bulanan. To do list adalah bagian dari sebuah perencanaan supaya jadwal kamu enggak bertabrakan satu sama lain. Daftar ini bisa dibuat untuk pribadi atau kelompok.",
+      "gambar": "https://soc-phoenix.s3-ap-southeast-1.amazonaws.com/wp-content/uploads/2018/05/07024136/tdilist-1.jpg"
+    },
+    {
+      "nama": "Management Waktu",
+      "detail": "Time/ Waktu adalah hal yang penting dalam sistem informasi terdistribusi karena berfungsi untuk mempertahankan konsistensi data yang didistribusikan. Mengelola waktu secara efektif membantu mengembangkan yang lebih baik kepribadian dalam suatu organisasi. Waktu, sekali pergi tidak pernah kembali.",
+      "gambar": "https://wqa.co.id/wp-content/uploads/2021/04/manajemen-waktu.png"
+    }
+  ],
+  "Todo": [
+    {
+      "todo": "HAHAHAHHAHA",
+      "id": 1
+    },
+    {
+      "todo": "uas prak mobile trakhir bismillah",
+      "id": 2
+    }
+  ]
+}
