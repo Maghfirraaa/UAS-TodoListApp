@@ -81,7 +81,7 @@ class _onboardingState extends State<onboarding> {
                 textAlign: TextAlign.center,
               ),
               SizedBox(
-                height: 90,
+                height: 100,
               ),
               Builder(
                 builder: (context) => RaisedButton(
