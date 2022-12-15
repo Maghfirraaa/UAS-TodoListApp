@@ -39,11 +39,6 @@ class _LoginPageState extends State<LoginPage> {
               backgroundColor: Colors.red,
               content: Text("Cek Email dan Password kembali"),
             ));
-            //   Alert(
-            //     context:context,
-            //     tittle:"Filed",
-            //   ),
-            // }
           }
         }
       } else {

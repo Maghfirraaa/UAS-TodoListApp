@@ -28,6 +28,10 @@ class _RegisterPageState extends State<RegisterPage> {
           data: {"nama": nama, "email": email, "password": password});
       if (response.statusCode == 201) {
         print("Account created successfully");
+        ScaffoldMessenger.of(context).showSnackBar(const SnackBar(
+              backgroundColor: Colors.blue,
+              content: Text("Account created successfully"),
+            ));
         Navigator.pushReplacement(
             context,
             MaterialPageRoute(
