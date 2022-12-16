@@ -97,7 +97,7 @@ class _landingPageState extends State<landingPage> {
           ),
           BottomNavyBarItem(
             icon: Icon(Icons.assignment),
-            title: Text('Catalog'),
+            title: Text('Todo'),
             activeColor: Colors.white,
             inactiveColor: Colors.white,
             textAlign: TextAlign.center,
